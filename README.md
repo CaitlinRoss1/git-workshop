@@ -1,8 +1,6 @@
 # Git and GitHub Workshop
 
-I am adding changes 
-
-test 1
+I am removing changes 
 ## git
 
 git is a version control software.
