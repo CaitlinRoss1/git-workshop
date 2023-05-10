@@ -1,6 +1,7 @@
 # Git and GitHub Workshop
 
-I am removing changes 
+I am removed some changes 
+Some changes from online version
 ## git
 
 git is a version control software.
